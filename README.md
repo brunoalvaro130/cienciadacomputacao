@@ -1,4 +1,4 @@
-![Unifeg Logo](unifeg_guaxupe.png)
+![Unifeg Logo](unifeg-guaxupe.png)
 
 # [Ciência da Computação](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
 
