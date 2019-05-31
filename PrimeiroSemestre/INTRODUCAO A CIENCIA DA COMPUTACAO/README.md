@@ -1,11 +1,13 @@
-![Unifeg Logo](unifeg-guaxupe.png)
-
-# [Ciência da Computação](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
-
-Duração do Curso: _8 semestres._
-
-Período: _Noturno._
-
-Carga Horária: _3220 h/a_ 
+Carga Horária: 60
  
-Renovação de Reconhecimento: **Portaria MEC nº 286, de 21 de dezembro de 2012** O curso de Bacharelado em Ciência da Computação do Centro Universitário da Fundação Educacional Guaxupé foi criado com o objetivo de atender à grande demanda por profissionais da área de informática, nesta região, marcada, nas últimas décadas pelo crescimento populacional e pelo grande desenvolvimento econômico, sobretudo da agroindústria. 
+Ementa:
+    Histórico e visão geral de Computação como ciência. Visão geral do curso de Ciência da Computação no Brasil: Engenharia de Computação, Ciência da Computação, Sistemas de Informação e Licenciatura em Computação. Sistemas componentes de um computador: hardware e software. Noções de Algoritmo (representação da informação no computador) e linguagem de programação (tradução de meta-linguagens para linguagem de máquina). Explanação de áreas da ciência da computação: Teoria da Computação e Algoritmos, Engenharia de Software, Banco de Dados, Redes de Computadores, Engenharia de Computadores, Inteligência Artificial, Interfaces Homem-Máquina.
+ 
+Objetivos Gerais:
+    Fornecer orientação sobre a futura atuação profissional, e também sobre as disciplinas e atividades do curso, visando maximizar o aproveitamento dos alunos.
+ 
+Objetivos Específicos:
+    Compreender as diversas áreas de atuação profissional dentro de Ciência da Computação. Compreender as diversas áreas de pesquisa dentro de Ciência da Computação; As formações e títulos específicos bem como as certificações disponíveis na área. Apresentar as diferenças entre hardware e software bem como as diversas tecnologias disponíveis em cada uma. Apresentação e aplicação de ferramentas assistivas de uso colaborativo e em nuvem. Introdução e Aplicação de Algoritmos.
+ 
+Metodologia:
+    Aula expositiva e dialogada com uso de recursos multimídia. Uso de laboratório para atividades práticas direcionadas.
