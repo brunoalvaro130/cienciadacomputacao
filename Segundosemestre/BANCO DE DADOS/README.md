@@ -1,11 +1,13 @@
-![Unifeg Logo](unifeg-guaxupe.png)
-
-# [Ciência da Computação](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
-
-Duração do Curso: _8 semestres._
-
-Período: _Noturno._
-
-Carga Horária: _3220 h/a_ 
+Carga Horária: 80
  
-Renovação de Reconhecimento: **Portaria MEC nº 286, de 21 de dezembro de 2012** O curso de Bacharelado em Ciência da Computação do Centro Universitário da Fundação Educacional Guaxupé foi criado com o objetivo de atender à grande demanda por profissionais da área de informática, nesta região, marcada, nas últimas décadas pelo crescimento populacional e pelo grande desenvolvimento econômico, sobretudo da agroindústria. 
+Ementa:
+    Conceitos Básicos: Arquitetura de um Sistema de Banco de Dados, Modelos de Dados, Linguagens de Definição e Manipulação de Dados, Usuário de Banco de Dados. Modelagem de Dados. Modelos de Dados: Relacional, Hierárquicos e de Redes. Projeto de Banco de Dados Relacional: Dependência Funcional, Chaves, Normalização e SQL
+ 
+Objetivos Gerais:
+    Capacitar aos alunos os conceitos e normas técnicas necessários para entender, analisar, projetar, desenvolver e manter bases de dados. Proporcionar os meios necessários de utilização dos Sistemas Gerenciadores de Bancos de Dados(SGBD), assim como base teórica e prática para realizar acesso, consultas e melhorias em base de dados.
+ 
+Objetivos Específicos:
+    O aluno será capaz de compreender os conceitos e arquitetura de Banco de Dados e Sistema de Gerenciamento de Banco de Dados(SGBD). Aplicar os conceitos de modelagem, normalização e banco de dados. Implementar um banco de dados. .Elaborar consultas em uma base de dados através da linguagem SQL
+ 
+Metodologia:
+    Aulas expositivas e práticas em laboratório. Trabalhos em grupo e individuais. Utilização de Ferramenta de Modelagem de Dados e Sistema de Gerenciamento de Banco de Dados para praticar os resultados. Discussão com a sala sobre exercícios.
