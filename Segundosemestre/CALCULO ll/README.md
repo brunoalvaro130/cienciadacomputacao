@@ -1,11 +1,13 @@
-![Unifeg Logo](unifeg-guaxupe.png)
-
-# [Ciência da Computação](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
-
-Duração do Curso: _8 semestres._
-
-Período: _Noturno._
-
-Carga Horária: _3220 h/a_ 
+Carga Horária: 60
  
-Renovação de Reconhecimento: **Portaria MEC nº 286, de 21 de dezembro de 2012** O curso de Bacharelado em Ciência da Computação do Centro Universitário da Fundação Educacional Guaxupé foi criado com o objetivo de atender à grande demanda por profissionais da área de informática, nesta região, marcada, nas últimas décadas pelo crescimento populacional e pelo grande desenvolvimento econômico, sobretudo da agroindústria. 
+Ementa:
+    Sequências e Séries. Funções Reais de várias variáveis. Derivadas parciais e aplicações. Integrais Multiplas e aplicações.
+ 
+Objetivos Gerais:
+    o aluno deverá saber como aplicar os critérios de convergência para séries infinitas, bem como expandir funções em série de potências. Interpretar geometricamente os conceitos de funções de duas variáveis e ter habilidade nos cálculos de derivadas e dos máximos e mínimos das funções. Aplicar os teoremas das funções implícitas e inversas.
+ 
+Objetivos Específicos:
+    Propiciar a capacidade ao aluno de ler e interpretar os problemas rel,ativos aos conteúdos acima. (Sequências e Séries. Funções Reais de várias variáveis. Derivadas parciais e aplicações. Integrais Multiplas e aplicações.). Apresentar os conceitos e suas aplicações.
+ 
+Metodologia:
+    Aulas expositivas com exemplos representativos e suas aplicações. Lista de exercícios. Aulas para discussão de dúvidas e resolução dos exercícios das listas.
