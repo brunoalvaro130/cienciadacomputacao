@@ -1,11 +1,13 @@
-![Unifeg Logo](unifeg-guaxupe.png)
-
-# [Ciência da Computação](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
-
-Duração do Curso: _8 semestres._
-
-Período: _Noturno._
-
-Carga Horária: _3220 h/a_ 
+Carga Horária: 60
  
-Renovação de Reconhecimento: **Portaria MEC nº 286, de 21 de dezembro de 2012** O curso de Bacharelado em Ciência da Computação do Centro Universitário da Fundação Educacional Guaxupé foi criado com o objetivo de atender à grande demanda por profissionais da área de informática, nesta região, marcada, nas últimas décadas pelo crescimento populacional e pelo grande desenvolvimento econômico, sobretudo da agroindústria. 
+Ementa:
+    Elementos básicos de uma linguagem de programação orientada a objetos. Programação orientada a objetos. Tratamento de exceções. Projeto de soluções usando programação orientada a objetos
+ 
+Objetivos Gerais:
+    Descrever os principais conceitos relacionados à abordagem orientada a objetos. Explicar a diferença entre a programação estruturada e a programação orientada a objetos. Construir programas segundo a abordagem orientada a objeto.
+ 
+Objetivos Específicos:
+    Utilizar as técnicas de orientação a objetos na elaboração de projetos para o desenvolvimento de sistemas
+ 
+Metodologia:
+    Os conceitos referentes ao desenvolvimento de aplicações orientadas a objeto serão apresentadas aos alunos por meio do desenvolvimento prático de exemplos que terão seu grau de complexidade sendo elevados ao longo do curso. No segundo bimestre os alunos irão trabalhar no desenvolvimento de um projeto utilizando os conceitos apresentados.
