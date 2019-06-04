@@ -1,11 +1,13 @@
-![Unifeg Logo](unifeg-guaxupe.png)
-
-# [Ciência da Computação](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
-
-Duração do Curso: _8 semestres._
-
-Período: _Noturno._
-
-Carga Horária: _3220 h/a_ 
+Carga Horária: 60
  
-Renovação de Reconhecimento: **Portaria MEC nº 286, de 21 de dezembro de 2012** O curso de Bacharelado em Ciência da Computação do Centro Universitário da Fundação Educacional Guaxupé foi criado com o objetivo de atender à grande demanda por profissionais da área de informática, nesta região, marcada, nas últimas décadas pelo crescimento populacional e pelo grande desenvolvimento econômico, sobretudo da agroindústria. 
+Ementa:
+    Álgebra matricial. Tipos especiais de matrizes. Matrizes em bloco. Matriz inversa. Sistemas de Equações Lineares. Forma escada. Método de Gauss-jordan. Vetores. Equações. da reta e do plano. Estudo das cônicas e quadráticas.
+ 
+Objetivos Gerais:
+    Apresentar conceitos matemáticos básicos que permitam equacionar e resolver problemas, de natureza geométrica e algébrica, na graduação e na sua vida profissional.
+ 
+Objetivos Específicos:
+    Fornecer ao aluno ferramentas matemáticas para que o aluno possa: operar corretamente usando matrizes e vetores; resolver problemas modelados por sistemas de equações lineares e interpretar os resultados; resolver problemas que envolvam retas e planos e interpretar os resultados. Promover o desenvolvimento do raciocínio matemático abstrato, imprescindível e fundamental na formação do Engenheiro.
+ 
+Metodologia:
+    Aulas expositivas dos conceitos teóricos, com exemplos e exercícios para fixação desses conceitos. Listas de exercícios que exijam conhecimentos adquiridos anteriormente fazendo a integração com os novos conceitos. E aulas para discussão de dúvidas adquiridas nos estudos e nas listas de exercícios.
